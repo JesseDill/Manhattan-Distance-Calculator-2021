@@ -1,0 +1,2 @@
+# Manhattan-Distance-Calculator-2021
+User interacts with a user interface that accepts integers to calculate the Manhattan distance between 2 points and outputs the result on the screen. Calculator.java handles all the mathematics of the program. UI.java is the main class that runs the GUI program. This program uses JavaFX, associated libraries are included in the repo, but an executable jar file is also included to run instead.
